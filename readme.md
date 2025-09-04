@@ -4,7 +4,7 @@
 
 # GBICA VISION 🌹
 
-[**>>> [Click here to make your purchase](#https://www.instagram.com/charlotte.rlux) <<<**
+[**>>> [Click here to make your purchase](https://www.instagram.com/charlotte.rlux) <<<**
 
 GBICA VISION 🌹 is an offline, paid image generation software with fully secure and proprietary code. It focuses on ease of use: minimal setup, simple prompts, and high-quality results without complex tweaking.  
 
@@ -44,7 +44,7 @@ Unlock the power of offline, secure, high-quality AI image generation with **GBI
 3. Complete the secure $2 payment.  
 4. Enjoy instant access to offline AI image generation!  
 
-**>>> [Click here to make your purchase](#https://www.instagram.com/charlotte.rlux) <<<**  
+**>>> [Click here to make your purchase](https://www.instagram.com/charlotte.rlux) <<<**  
 
 🌹 Transform your creativity today — effortlessly.
 
