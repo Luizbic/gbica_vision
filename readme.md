@@ -4,7 +4,7 @@
 
 # GBICA VISION 🌹
 
-[**>>> [Click here to make your purchase](https://www.instagram.com/charlotte.rlux) <<<**
+[**>>> [Click here to make your purchase ](https://www.instagram.com/charlotte.rlux) <<<**
 
 GBICA VISION 🌹 is an offline, paid image generation software with fully secure and proprietary code. It focuses on ease of use: minimal setup, simple prompts, and high-quality results without complex tweaking.  
 
