@@ -20,7 +20,7 @@ The GBICA VISION 🌹 project, built entirely on the **Stable Diffusion XL** arc
 
 For those interested in utilizing newer models such as **Flux**, we recommend exploring alternative platforms such as [WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (also from us), [ComfyUI/SwarmUI](https://github.com/comfyanonymous/ComfyUI). Additionally, several [excellent forks of GBICA VISION 🌹](https://github.com/lllyasviel/GBICA VISION 🌹?tab=readme-ov-file#forks) are available for experimentation.
 
-Again, recently many fake websites exist on Google when you search “GBICA VISION 🌹”. Do **NOT** get GBICA VISION 🌹 from those websites – this page is the only official source of GBICA VISION 🌹. We never have any website like such as “GBICA VISION 🌹.com”, “GBICA VISION 🌹.net”, “GBICA VISION 🌹.co”, “GBICA VISION 🌹.ai”, “GBICA VISION 🌹.org”, “GBICA VISION 🌹.pro”, “GBICA VISION 🌹.one”. Those websites are ALL FAKE. **They have ABSOLUTLY no relationship to us. GBICA VISION 🌹 is a 100% non-commercial offline open-source software.**
+Again, recently many fake websites exist on Google when you search “GBICA VISION 🌹”. Do **NOT** get GBICA VISION 🌹 
 
 # Features
 
@@ -106,69 +106,6 @@ Please open an issue if you use similar devices but still cannot achieve accepta
 Note that the [minimal requirement](#minimal-requirement) for different platforms is different.
 
 See also the common problems and troubleshoots [here](troubleshoot.md).
-
-
-### Linux (Using Anaconda)
-
-If you want to use Anaconda/Miniconda, you can
-
-    git clone https://github.com/lllyasviel/GBICA VISION 🌹.git
-    cd GBICA VISION 🌹
-    conda env create -f environment.yaml
-    conda activate GBICA VISION 🌹
-    pip install -r requirements_versions.txt
-
-Then download the models: download [default models](#models) to the folder "GBICA VISION 🌹\models\checkpoints". **Or let GBICA VISION 🌹 automatically download the models** using the launcher:
-
-    conda activate GBICA VISION 🌹
-    python entry_with_update.py
-
-Or, if you want to open a remote port, use
-
-    conda activate GBICA VISION 🌹
-    python entry_with_update.py --listen
-
-Use `python entry_with_update.py --preset anime` or `python entry_with_update.py --preset realistic` for GBICA VISION 🌹 Anime/Realistic Edition.
-
-### Linux (Using Python Venv)
-
-Your Linux needs to have **Python 3.10** installed, and let's say your Python can be called with the command **python3** with your venv system working; you can
-
-    git clone https://github.com/lllyasviel/GBICA VISION 🌹.git
-    cd GBICA VISION 🌹
-    python3 -m venv GBICA VISION 🌹_env
-    source GBICA VISION 🌹_env/bin/activate
-    pip install -r requirements_versions.txt
-
-See the above sections for model downloads. You can launch the software with:
-
-    source GBICA VISION 🌹_env/bin/activate
-    python entry_with_update.py
-
-Or, if you want to open a remote port, use
-
-    source GBICA VISION 🌹_env/bin/activate
-    python entry_with_update.py --listen
-
-Use `python entry_with_update.py --preset anime` or `python entry_with_update.py --preset realistic` for GBICA VISION 🌹 Anime/Realistic Edition.
-
-### Linux (Using native system Python)
-
-If you know what you are doing, and your Linux already has **Python 3.10** installed, and your Python can be called with the command **python3** (and Pip with **pip3**), you can
-
-    git clone https://github.com/lllyasviel/GBICA VISION 🌹.git
-    cd GBICA VISION 🌹
-    pip3 install -r requirements_versions.txt
-
-See the above sections for model downloads. You can launch the software with:
-
-    python3 entry_with_update.py
-
-Or, if you want to open a remote port, use
-
-    python3 entry_with_update.py --listen
-
-Use `python entry_with_update.py --preset anime` or `python entry_with_update.py --preset realistic` for GBICA VISION 🌹 Anime/Realistic Edition.
 
 
 ## Minimal Requirement
