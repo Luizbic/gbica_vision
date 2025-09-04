@@ -1,5 +1,17 @@
 <div align="center">
-<img src="https://github.com/lllyasviel/GBICA-VISION-/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25" alt="GBICA VISION">
+
+<img src="275101376-3c9e1533-dd53-4236-b327-91ae1e67760e.png" alt="GBICA VISION" width="400"/>
+<img src="275101308-de65e091-c6fa-41f2-8096-9478c8e24038.png" alt="GBICA VISION" width="400"/>
+<img src="275101179-c0f8dc56-2bc6-4d78-a934-77ccdf3510e2.png" alt="GBICA VISION" width="400"/>
+<img src="275101131-e169e841-6759-46ef-9b66-c89cdd72aea9.png" alt="GBICA VISION" width="400"/>
+<img src="275413767-422eb043-d27f-4d1d-8e80-8ab5dee45265.png" alt="GBICA VISION" width="400"/>
+<img src="275413534-30f4ad4b-ef09-496a-b052-5b1394d040b3.png" alt="GBICA VISION" width="400"/>
+<img src="275413433-2416761f-ae65-429e-8dd6-168bd2446028.png" alt="GBICA VISION" width="400"/>
+<img src="275413426-fad55906-7f5e-4183-9af8-66c8750e293f.png" alt="GBICA VISION" width="400"/>
+<img src="275413413-166434f0-1ff3-4a03-876f-cdaa32be3604.png" alt="GBICA VISION" width="400"/>
+<img src="imagem (39).png" alt="GBICA VISION" width="400"/>
+<img src="imagem (38).png" alt="GBICA VISION" width="400"/>
+
 </div>
 
 # GBICA VISION 🌹
