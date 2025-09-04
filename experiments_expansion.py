@@ -1,6 +1,6 @@
-from modules.expansion import FooocusExpansion
+from modules.expansion import gbicaExpansion
 
-expansion = FooocusExpansion()
+expansion = gbicaExpansion()
 
 text = 'a handsome man'
 
